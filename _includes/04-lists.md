@@ -1,1 +1,1 @@
-Replace this with a list of your favorite things.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
